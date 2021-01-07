@@ -5,7 +5,7 @@ function Component1() {
     <div className="Component1">
       <h1>Component1</h1>
       <p>
-      Component1
+      Component1 there is more text to add
       </p>
     </div>
   );
