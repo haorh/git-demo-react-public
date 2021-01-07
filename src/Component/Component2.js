@@ -2,10 +2,10 @@
 
 function Component2() {
   return (
-    <div className="Component1">
-      <h1>Component1</h1>
+    <div className="Component2">
+      <h1>Component2</h1>
       <p>
-      Component1
+      Component2
       </p>
     </div>
   );
