@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Component1 from './Component/Component1';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <span>This is version 0</span>
+        <Component1 />
       </header>
     </div>
   );
